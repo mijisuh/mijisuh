@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mijisuh/mijisuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/><br/><br/>
 
-<b>🛠 t e c h</b>
+##🛠 t e c h
 
 <hr>
 
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
 
 <br/><br/><br/>
 
-<b>🐾 t o d a y </b>
+##🐾 t o d a y
 <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijisuh&count_bg=%23ACCCFF&title_bg=%238FB8F9&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
