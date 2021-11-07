@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/><br/><br/>
 
-## 🛠&nbsp;t&nbsp;e&nbsp;c&nbsp;h&nbsp;🛠
+### 🛠 t e c h 🛠
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp;<br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp;<br/>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br/><br/><br/>
 
-## 🐾&nbsp;t&nbsp;o&nbsp;d&nbsp;a&nbsp;y&nbsp;🐾
+### 🐾 t o d a y 🐾
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijisuh&count_bg=%23ACCCFF&title_bg=%238FB8F9&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=MIJI%27s%20Archive&fontSize=50)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
