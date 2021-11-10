@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MIJI%27s%20Archive&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MijiSuh&fontSize=50)
 
 <div align="center">
 
