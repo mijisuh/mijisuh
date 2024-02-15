@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/><br/>
 &nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
 
+<!--
 <br/><br/>
 
-<!--
 ### 🐾 t o d a y 🐾
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijisuh&count_bg=%23ACCCFF&title_bg=%238FB8F9&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
--->
 
 <br/><br/>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijisuh&theme=nord) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijisuh&theme=nord)
 
 </div>
 
-<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer) -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer) 
+-->
