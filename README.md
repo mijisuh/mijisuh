@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MijiSuh&fontSize=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MijiSuh&fontSize=50) -->
 
 <div align="center">
 
@@ -28,14 +28,16 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
+<!--
 ### 🐾 t o d a y 🐾
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijisuh&count_bg=%23ACCCFF&title_bg=%238FB8F9&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijisuh&count_bg=%23ACCCFF&title_bg=%238FB8F9&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+-->
 
 <br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijisuh&theme=nord)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijisuh&theme=nord) -->
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer) -->
