@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### t e c h
+### t e c h 🌱
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Kotlin-F05138?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/iOS-F05138?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Android-F05138?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB8?style=for-the-badge&logo=Xcode&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>
+
 
 <!--
 <br/><br/>
